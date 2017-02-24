@@ -3,6 +3,7 @@ GitHub Example
 
 This is a simple example repository that will be used to show how to get started with GitHub.
 A to sobie dopisałem.
+A tu jeszcze coś tam napisałem.
 
 How to Contribute
 =================
